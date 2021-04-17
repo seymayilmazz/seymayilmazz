@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Backend development at microservice architecture
 - 🌱 I’m currently learning **Swift Programming, Flutter**
 - 💬 Ask me about Backend technologies and microservice architecture
-- 📫 How to reach me: **seymylmz-.-@hotmail.com**
+- 📫 How to reach me: 
 - ⚡ Fun fact: making cookie 🤣
 
 <h3 align="left">Connect with me:</h3>
