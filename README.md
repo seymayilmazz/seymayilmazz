@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seyma</h1>
-<h3 align="center">A Software Developer from Istanbul/Turkey</h3>
+<h3 align="center">A Software Engineer from Istanbul/Turkey</h3>
 <h4 align="center">I'm currently working at Trendyol Group</h4>
 
 - 🔭 I’m currently working on Backend development at microservice architecture
